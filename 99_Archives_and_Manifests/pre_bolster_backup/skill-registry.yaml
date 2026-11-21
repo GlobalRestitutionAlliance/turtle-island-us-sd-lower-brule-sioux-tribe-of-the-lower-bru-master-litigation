@@ -1,0 +1,14 @@
+skills:
+- id: icj-judgment-enforcement-and-article-94-sanctions
+  name: ICJ Judgment Enforcement & Article 94 Sanctions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
+- id: historical-intervention-and-canal-concession-audit
+  name: Historical Intervention & Canal Concession Audit
+  status: ACTIVE
+  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
+- id: lower-brule-sioux-tribe-of-the-lower-bruan-restitution-roadmap-and-qsf-trust-execution
+  name: Lower Brule Sioux Tribe of the Lower Bruan Restitution Roadmap & QSF Trust Execution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/lower-brule-sioux-tribe-of-the-lower-bruan-restitution-roadmap-and-qsf-trust-execution.yaml
+total_skills: 3
